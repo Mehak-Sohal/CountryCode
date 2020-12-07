@@ -39,6 +39,17 @@
         }
     ],
     "countries" : [
-        "UK", "USA", "Canada", "India"
+        {
+        "country" : "India",
+        "code": "IND"
+        },
+        {
+        "country" : "UK",
+        "code": "GB"
+        },
+        {
+        "country" : "Canada",
+        "code": "CAN"
+        }
     ]
 }
